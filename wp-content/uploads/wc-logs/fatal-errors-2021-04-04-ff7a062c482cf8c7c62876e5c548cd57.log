@@ -1,0 +1,201 @@
+2021-04-04T08:11:11+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T08:11:39+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T08:12:41+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(298): Elementor\Widget_Base->render_plain_content()
+#3 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(304): Elementor\DB->render_element_plain_content(Array)
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(304): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(637): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xamp in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T08:16:07+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T08:17:05+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T08:17:06+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:901
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 901
+
+2021-04-04T08:17:17+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:901
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 901
+
+2021-04-04T08:18:08+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:18:12+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:18:20+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:18:31+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:18:32+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:18:46+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:18:48+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:19:48+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:930
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 930
+
+2021-04-04T08:20:34+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\post-content\entry-title.php:6
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\helper-functions.php(633): include()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\addons\posts-gridbox-slider\style-1.php(66): lae_get_template_part('post-content/en...', Array)
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\helper-functions.php(633): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\addons\posts-gridbox-slider\loop.php(45): lae_get_template_part('addons/posts-gr...', Array)
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\helper-functions.php(633): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-element in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\post-content\entry-title.php on line 6
+
+2021-04-04T08:21:58+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\addons\posts-carousel\content.php:57
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\helper-functions.php(633): include()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\addons\posts-carousel\loop.php(29): lae_get_template_part('addons/posts-ca...', Array)
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\helper-functions.php(633): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\posts-carousel.php(716): lae_get_template_part('addons/posts-ca...', Array)
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Posts_Carousel_Widget->render()
+#5 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\ in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\templates\addons\posts-carousel\content.php on line 57
+
+2021-04-04T08:22:13+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T08:23:28+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(298): Elementor\Widget_Base->render_plain_content()
+#3 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(304): Elementor\DB->render_element_plain_content(Array)
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(304): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(637): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xamp in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T09:19:25+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(217): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#3 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\Ecomerce web\wp-includes\class-wp-hook.php(292): Elementor\Core\Co in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T09:20:27+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(298): Elementor\Widget_Base->render_plain_content()
+#3 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(304): Elementor\DB->render_element_plain_content(Array)
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(304): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\db.php(637): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xamp in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
+2021-04-04T09:20:39+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Utils::validate_html_tag() in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php:786
+Stack trace:
+#0 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(531): LivemeshAddons\Widgets\LAE_Portfolio_Widget->render()
+#1 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\widget-base.php(644): Elementor\Widget_Base->render_content()
+#2 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\element-base.php(746): Elementor\Widget_Base->get_raw_data(true)
+#3 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\includes\base\element-base.php(746): Elementor\Element_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(707): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\Ecomerce web\wp-content\plugins\elementor\core\base\document.php(471): Elementor\Core\Base\Document->get_ in C:\xampp\htdocs\Ecomerce web\wp-content\plugins\addons-for-elementor\includes\widgets\portfolio.php on line 786
+
